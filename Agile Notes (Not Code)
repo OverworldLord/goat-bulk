@@ -1,0 +1,81 @@
+Agile is a framework,attitude, and approach (lean, fast, pragmatic)
+	As customer, what would make you happy?
+		Documentation
+Value every week
+	Break tings down into smaller pieces
+	Focus on what is important, forget the rest. Documentation and plans are important in support of working software only
+	Test a lot
+	Seek feedback; make sure we are on the right path
+	Change course when necessary; priorities change, plans are adaptive
+	Become accountable (take ownership of software quality and timelines, set expectations, spend money effectively).
+Much to do, little time
+	Deliver software every few weeks
+		Make a list, size things up to see how long each things take
+		Prioritize the list to figure out what is important because you accept that not everything will get done
+	How agile is different
+		Analysis, design, coding, testing are continuous activities
+		As long as there are features to implement and money is available, project is ongoing
+		Planning is adaptive - the only constant is change
+		Everything might have a specialty
+Only scope can vary
+	A software project has four aspects:
+		Time - because it is too easy to push dates back, we keep time fixed and do not change it
+		Budget - asking for money never goes down smoothly, so we fix the budget
+		Quality - Never comprimise on quality; writing high quality software every time helps us improve upon the system in the future
+		Scope - the only aspect we are allowed to modify. When there is too much to do and not enough money or time, we simply do less; we cut scope
+Changing is so expensive... right?
+	This is a horrible myth
+	True when punch cards were used, because changes were a lot more expensive
+	Business is better now
+Three Truths
+	Impossible to gather all requirements at beginning is one, but he's flipping through slides too fast
+How teams are different
+	People do whatever it takes to make the project successful
+	Quality is everyone's responsibility
+Characteristics
+	Teams do their own stuff, make sure everything works
+	Scrummaster removes obstacles that are in the way
+	People have to want to get work done
+	Cross functional
+	Customer decides what to build
+	Dev teams decide how to build it
+User Story
+	The essential unit of work in an agile project
+	Gathering requirements is advantageous
+	In the past, you would get what was specified in a document instead of what customer needs
+	When the specification does not answer the team's questions, assumptions and guess are made
+	Some people suggest documenting more to solve the problem, but the issue is not with volume, but with communication
+I N V E S T
+	Independent - things change; if all is intertwined, it is difficult to drop stories
+	Negotiable  - multiple ways to deliver a story; wiggle room to work with
+	Valuable    - delivers value to customer
+	Estimate    - be able to plan the work to be done
+	Small       - 1 to 5 days to implement; we can be sure we will get it done within a sprint
+	Testable    - we want to know how to test it
+User Story Format
+	Option 1 - A few words are fine (Example: Add Sign in Page)
+	Option 2 - Template
+		As a [type of user], I want [some goal], so that [derived benefit]
+		Gives context by answering who, what, and why
+	Option 3 - Hybrid
+		Use Option 1 on one side of the card to use for planning
+		Use Option 2 on other side of the card for design
+Don't use days, use concepts of points
+	small - 1 pt
+	medium - 3 pt
+	large - 5 pt
+Triangulation
+	Take a few simple reference stories, size them relative to each other
+	Resize stories in beginning if story sizes are a bit off
+	Once sized relative to eachother, leave stories alone
+	If something cannot be sized, spike it up (XP)
+		Time bound experiment to come up with an estimate only
+		No more than a couple of days
+Planning Poker - team estimation and consensus
+	Process
+		Customer reads a user story
+		Development team members use cards to assign a value
+		Team discusses their point values
+		Team estimates again until consensus is reached
+	Works well, power comes in the discussion, not who is right or wrong
+	
